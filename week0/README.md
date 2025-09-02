@@ -41,7 +41,7 @@ The end of semester exam accounts for 80% of the final course grade. There will 
 #### Tasks for this Week
 :white_check_mark: Setup or familiarise yourself with a preferred coding environment for coding in Python.
 
-:white_check_mark: [Sign up for a GitHub Student account](https://github.com/education/students) **using your University e-mail address** e.g. ```s12345@sms.ed.ac.uk```. This is because access to the GitHub Classroom for this course has an e-mail address roster to limit access; your GitHub e-mail must match.
+:white_check_mark: [Sign up for a GitHub Student account](https://github.com/education/students) **using your University e-mail address** e.g. ```s12345@ed.ac.uk```. This is because access to the GitHub Classroom for this course has an e-mail address roster to limit access; your GitHub e-mail must match.
 
 :white_check_mark: Join the course GitHub Classroom by [accepting the first mini-assignment - "Introduction to GitHub"](https://classroom.github.com/a/4qR87jpB) and work through this short excersie. Please note this is not assessed, it is to familiarise yourself with GitHub.
 
