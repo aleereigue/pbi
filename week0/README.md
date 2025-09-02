@@ -3,7 +3,9 @@
 
 ![course banner](../resources/pbi_banner.jpg)
 
-## Welcome to the PBI course for 2025
+## Welcome to the PBI course for 2025 
+
+:mortar_board:
 
 ### Course Overview
 

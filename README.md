@@ -21,4 +21,8 @@ Be sure to check your timetable for lecture locations as these can change during
 
 Lectures will be in weeks 1-4 and 6-11. **NB no lectues in week 5**
 
-*Note that materials will be added to this GitHub as the course progresses*
+### Weekly Materials
+
+Please be sure to regularly check back to this website and/or pull the repository regularly as materials will be added on Monday each week as the course progresses.
+
+TODO - Check the [week 0 REAMDE](week0/README.md) and complete the tasks there to prepare for the start of the course in week 1
