@@ -5,5 +5,5 @@
 
 Contact: ([ian.simpson@ed.ac.uk](mailto:ian.simpson@ed.ac.uk))
 
-![course banner](resources/pbi_banner.jpg)
+![course banner](../resources/pbi_banner.jpg)
 
