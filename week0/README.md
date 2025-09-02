@@ -3,9 +3,7 @@
 
 ![course banner](../resources/pbi_banner.jpg)
 
-## Welcome to the PBI course for 2025 
-
-:mortar_board:
+## Welcome to the PBI course for 2025
 
 ### Course Overview
 
@@ -18,7 +16,7 @@ Course lecture slides will be uploaded to this repository and lecture videos mad
 
 #### Programming
 
-Practical programming practice will take the form of weekly formative (not assessed) programming exercises using GitHub Classroom. These will happen in weeks 1-4 and 5-8 (so 8 in total).
+:computer: Practical programming practice will take the form of weekly formative (not assessed) programming exercises using GitHub Classroom. These will happen in weeks 1-4 and 5-8 (so 8 in total).
 
 #### Coding Environment
 
@@ -39,14 +37,14 @@ There will be one piece of summative assessment in the course accounting for 20%
 The end of semester exam accounts for 80% of the final course grade. There will be two revision sessions in week 11 (if needed) for me to address any questions you may have in-person. I will go through some example questions and answers in these sessions. The course has only run once before, but last year's exam paper is available for you to download [here](https://exampapers.ed.ac.uk/search?query=INFR11260). This year's paper will be largely similar in structure; I will cover any differences during the revision sessions. In addition you can always ask questions on the piazza forum throughout the course.
 
 #### Tasks for this Week
-- Setup or familiarise yourself with a preferred coding environment for coding in Python.
+:white_check_mark: Setup or familiarise yourself with a preferred coding environment for coding in Python.
 
-- [Sign up for a GitHub Student account](https://github.com/education/students) **using your University e-mail address** e.g. ```s12345@sms.ed.ac.uk```. This is because access to the GitHub Classroom for this course has an e-mail address roster to limit access; your GitHub e-mail must match.
+:white_check_mark: [Sign up for a GitHub Student account](https://github.com/education/students) **using your University e-mail address** e.g. ```s12345@sms.ed.ac.uk```. This is because access to the GitHub Classroom for this course has an e-mail address roster to limit access; your GitHub e-mail must match.
 
-- Join the course GitHub Classroom by [accepting the first mini-assignment - "Introduction to GitHub"](https://classroom.github.com/a/4qR87jpB) and work through this short excersie. Please note this is not assessed, it is to familiarise yourself with GitHub.
+:white_check_mark: Join the course GitHub Classroom by [accepting the first mini-assignment - "Introduction to GitHub"](https://classroom.github.com/a/4qR87jpB) and work through this short excersie. Please note this is not assessed, it is to familiarise yourself with GitHub.
 
-- Check that you can [login to the course discussion board on Piazza](https://piazza.com/class/memnomhzr0l6ko) and (only if you would like to), introduce yourself in the "Introductions" channel and perhaps leave a note of what you are hoping to learn during the course. Note that you can login to Piazza directly here, but may find it easier to click through from the course LEARN page. You should be automatically added to the Piazza class list from EUCLID.
+:white_check_mark: Check that you can [login to the course discussion board on Piazza](https://piazza.com/class/memnomhzr0l6ko) and (only if you would like to), introduce yourself in the "Introductions" channel and perhaps leave a note of what you are hoping to learn during the course. Note that you can login to Piazza directly here, but may find it easier to click through from the course LEARN page. You should be automatically added to the Piazza class list from EUCLID.
 
-- If you have any problems **please do ask** by posting a question on the Piazza forum (you can privately message me on there if you do not want to ask a question in puclic). I will be monitoring the forum closely throughout the course and this is the best way to get in touch with me.
+:white_check_mark:  If you have any problems **please do ask** by posting a question on the Piazza forum (you can privately message me on there if you do not want to ask a question in puclic). I will be monitoring the forum closely throughout the course and this is the best way to get in touch with me.
 
 ### See you at the first lecture on the 16th September!
