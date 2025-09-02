@@ -1,5 +1,5 @@
 ## Programming for Biomedical Informatics (INFR11260)
-#### School of Informatics, The University of Edinburgh (2024)
+#### School of Informatics, The University of Edinburgh (2025)
 
 ### Course Lecturer: Prof. Ian Simpson
 
@@ -7,19 +7,19 @@ Contact: ([ian.simpson@ed.ac.uk](mailto:ian.simpson@ed.ac.uk))
 
 ![course banner](resources/pbi_banner.jpg)
 
-- [Course GitHub Repository Cloning Link](https://github.com/tisimpson/pbi.git)
-- [GitHub Classroom Assignments](https://github.com/biomedical-informatics)
-- [Course Discussion Boards](https://edstem.org/eu/courses/1512/discussion/)
+- [Course GitHub Repository Cloning Link](https://github.com/biomedical-informatics/pbi.git)
+- [GitHub Classroom Assignments](https://classroom.github.com/classrooms/181474558-programming-for-biomedical-informatics-2025)
+- [Course Discussion Boards](https://piazza.com/class/memnomhzr0l6ko/) (you can login direclty at Piazza or click through from LEARN)
 
 This repository contains course materials including code and data.
 
 ### Lectures
-Lectures all take place in the G.07 Meadows Lecture Theatre - Doorway 4 in the Medical School at Teviot ([map](https://www.google.com/maps/place/55°56'41.8%22N+3°11'25.3%22W/@55.944955,-3.1929309,17z/data=!3m1!4b1!4m4!3m3!8m2!3d55.944955!4d-3.190356?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D)).
+Be sure to check your timetable for lecture locations as these can change during the term although this is not expected.
 
-- Tuesdays 11:10 - 12:00
-- Thursdays 13:10 - 14:00
+- Tuesdays 09:10 - 10:00 - 50 George Square, lecture room G.05 [location](https://www.google.com/maps/place/55°56'37.6%22N+3°11'12.4%22W/@55.943775,-3.1893409,877m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d55.943775!4d-3.186766?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D)
+- Thursdays 11:10 - 12:00 - Medical School, Teviot, Teaching Room 12 (Doorway 3) [location](https://www.google.com/maps/place/55°56'41.8%22N+3°11'25.3%22W/@55.944955,-3.1929309,876m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d55.944955!4d-3.190356?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D)
 
-The timetable is being updated to refelect the fact that lectures will be in weeks1-4 and 6-11. **NB** *no lectues in week 5*.
+Lectures will be in weeks1-4 and 6-11. **NB** *no lectues in week 5*.
 
 ### Coding Environment
 
