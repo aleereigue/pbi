@@ -25,5 +25,5 @@ Lectures will be in weeks 1-4 and 6-11. **NB no lectues in week 5**
 
 Please be sure to regularly check back to this website and/or pull the repository regularly as materials will be added on Monday each week as the course progresses.
 
-:white_check_mark: - Week 0 tasks to complete before the course begins
-:new: - week 1 materials are now available
+- :white_check_mark: - Week 0 tasks to complete before the course begins
+- :new: - week 1 materials are now available
