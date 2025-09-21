@@ -13,7 +13,7 @@ On Tuesday, I will take you through a tour of data sources that are widely used 
 
 :white_check_mark: keep practicing with your preferred python coding environment using the notebooks accompanying each week's work.
 
-:white_check_mark: have a go at the new week 2 assignment in the GitHub Classroom. Remember these are not assessed, they are for you to practice related coding as the course progresses.
+:white_check_mark: have a go at the new [week 2 practice assignment](https://classroom.github.com/a/oVXQjqAz) in the GitHub Classroom. Remember these are not assessed, they are for you to practice related coding as the course progresses.
 
 On Thursday I will be working through two notebooks and some code snippets focussed around querying and retreiving data and some summary anakysis. These are all included in this week's folder on the course GitHub.
 
