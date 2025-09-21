@@ -26,4 +26,5 @@ Lectures will be in weeks 1-4 and 6-11. **NB no lectues in week 5**
 Please be sure to regularly check back to this website and/or pull the repository regularly as materials will be added on Monday each week as the course progresses.
 
 - :white_check_mark: - [week 0 tasks to complete](https://github.com/biomedical-informatics/pbi/tree/initial-release/week0) before the course begins
-- :new: - [week 1 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week1) are now available
+- :white_check_mark: - [week 1 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week1)
+- :new: - [week 2 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week2) are now available.
