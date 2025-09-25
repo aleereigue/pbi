@@ -13,6 +13,8 @@ Contact: ([ian.simpson@ed.ac.uk](mailto:ian.simpson@ed.ac.uk))
 
 This repository contains course materials including code and data.
 
+You can also view the course from [this website](https://biomedical-informatics.github.io/pbi-home/) if you prefer.
+
 ### Lectures
 Be sure to check your timetable for lecture locations as these can change during the term although this is not expected.
 
