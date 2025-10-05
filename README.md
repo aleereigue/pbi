@@ -28,4 +28,5 @@ Please be sure to regularly check back to this website and/or pull the repositor
 - :white_check_mark: - [week 0 tasks to complete](https://github.com/biomedical-informatics/pbi/tree/initial-release/week0) before the course begins
 - :white_check_mark: - [week 1 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week1)
 - :white_check_mark: - [week 2 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week2)
-- :new: - [week 3 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week3) are now available
+- :white-check-mark: - [week 3 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week3)
+- :new: - [week 4 materials](https://github.com/biomedical-informatics/pbi/tree/initial-release/week4) are now available
